@@ -1,0 +1,47 @@
+.description-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.flavor-text {
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.pillow-image {
+  border: 3px solid #FFF;
+  min-width: 10rem;
+  max-width: 17rem;
+  width: 80%;
+}
+
+.results-container {
+  align-items: center;
+  color: #FFF;
+  display:flex;
+  flex-direction:column;
+  padding: 0 2rem;
+  gap: 1.5rem;
+  text-align:center;
+  max-width: 500px;
+}
+
+.share-button {
+    border: 2px solid #FFF;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+.yourein-text {
+  text-transform: uppercase;
+}
+
+.header-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}

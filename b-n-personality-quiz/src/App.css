@@ -1,0 +1,16 @@
+.container {
+  align-items: center;
+  background: linear-gradient(to bottom, #0033A0, #298CA9);
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem 0;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  /* width: 600px; */
+  /* height: 802px; */
+  font-family: sans-serif;
+  background: linear-gradient(to right, #0033A0, #298CA9); /* Optional */
+}

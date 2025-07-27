@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/b-n-personality-quiz/static/css/main.e9a0eaf4.css",
+    "main.js": "/b-n-personality-quiz/static/js/main.d08afba1.js",
+    "static/js/453.f34699fb.chunk.js": "/b-n-personality-quiz/static/js/453.f34699fb.chunk.js",
+    "static/media/Question3.png": "/b-n-personality-quiz/static/media/Question3.937d195e435fdc0b4334.png",
+    "static/media/creativeChewbie.png": "/b-n-personality-quiz/static/media/creativeChewbie.ca56df8f5381774fb611.png",
+    "static/media/Question5.png": "/b-n-personality-quiz/static/media/Question5.ab5957f78b096492a463.png",
+    "static/media/Question1.png": "/b-n-personality-quiz/static/media/Question1.f480e5da919a1dba833d.png",
+    "static/media/Question2.png": "/b-n-personality-quiz/static/media/Question2.0e5eccc3dc0a9adf3df6.png",
+    "static/media/gamerChewbie.png": "/b-n-personality-quiz/static/media/gamerChewbie.c1308edeafaef2ee0e5e.png",
+    "static/media/scientistChewbie.png": "/b-n-personality-quiz/static/media/scientistChewbie.642faec0fdab2d17e18a.png",
+    "static/media/buffChewbie.png": "/b-n-personality-quiz/static/media/buffChewbie.620ad9595c3ae87f7338.png",
+    "static/media/Question4.jpg": "/b-n-personality-quiz/static/media/Question4.e8d4d6e158ac85035eb5.jpg",
+    "index.html": "/b-n-personality-quiz/index.html",
+    "main.e9a0eaf4.css.map": "/b-n-personality-quiz/static/css/main.e9a0eaf4.css.map",
+    "main.d08afba1.js.map": "/b-n-personality-quiz/static/js/main.d08afba1.js.map",
+    "453.f34699fb.chunk.js.map": "/b-n-personality-quiz/static/js/453.f34699fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a0eaf4.css",
+    "static/js/main.d08afba1.js"
+  ]
+}

@@ -55,6 +55,22 @@ const App = () => {
     setIsSignedUp(true);
   };
 
+  useEffect(() => {
+    const sendHeight = () => {
+      const height = document.body.scrollHeight;
+      window.parent.postMessage({ type: "setHeight", height }, "*");
+    };
+
+    sendHeight(); // Initial call
+
+    const observer = new ResizeObserver(sendHeight);
+    observer.observe(document.body);
+
+    return () => observer.disconnect();
+  }, []);
+
+
+
   return (
     <div className="container">
       {currentQuestion < questions.length ? (

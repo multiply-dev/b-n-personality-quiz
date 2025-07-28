@@ -68,8 +68,6 @@ const Results = ({ answers }) => {
         alert('Sharing not supported on this device. Try saving the image and sharing manually.');
       }
     } catch (error) {
-      console.error('Sharing failed:', error);
-      alert('There was an error trying to share your result.');
     }
   };
 

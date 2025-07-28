@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import ChewCrew from './components/ChewCrew/ChewCrew';
 import Question from './components/Question/Question';
 import Results from './components/Results/Results';
@@ -54,21 +54,6 @@ const App = () => {
   const handleSignupComplete = () => {
     setIsSignedUp(true);
   };
-
-  useEffect(() => {
-    const sendHeight = () => {
-      const height = document.body.scrollHeight;
-      window.parent.postMessage({ type: "setHeight", height }, "*");
-    };
-
-    sendHeight(); // Initial call
-
-    const observer = new ResizeObserver(sendHeight);
-    observer.observe(document.body);
-
-    return () => observer.disconnect();
-  }, []);
-
 
 
   return (

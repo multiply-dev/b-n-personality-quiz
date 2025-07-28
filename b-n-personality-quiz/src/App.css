@@ -4,6 +4,8 @@
   display: flex;
   flex-direction: column;
   padding: 1.5rem 0;
+  justify-content: center; /* horizontal centering */
+  height: 100%;
 }
 
 html, body, #root {

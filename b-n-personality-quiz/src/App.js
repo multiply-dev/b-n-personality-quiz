@@ -55,7 +55,6 @@ const App = () => {
     setIsSignedUp(true);
   };
 
-
   return (
     <div className="container">
       {currentQuestion < questions.length ? (

@@ -17,6 +17,12 @@
   width: 80%;
 }
 
+@media (min-width: 1024px) {
+  .pillow-image {
+    max-width: 22rem;
+  }
+}
+
 .results-container {
   align-items: center;
   color: #FFF;

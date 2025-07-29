@@ -58,3 +58,9 @@ button.selected {
   border: 3px solid #FFF;
   max-width: 13rem;
 }
+
+@media (min-width: 1024px) {
+  .question-image {
+    max-width: 20rem;
+  }
+}

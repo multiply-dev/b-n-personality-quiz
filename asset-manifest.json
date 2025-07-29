@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/b-n-personality-quiz/static/css/main.9148f6eb.css",
+    "main.css": "/b-n-personality-quiz/static/css/main.a71c7f78.css",
     "main.js": "/b-n-personality-quiz/static/js/main.e872e357.js",
     "static/js/453.f34699fb.chunk.js": "/b-n-personality-quiz/static/js/453.f34699fb.chunk.js",
     "static/media/Question3.png": "/b-n-personality-quiz/static/media/Question3.937d195e435fdc0b4334.png",
@@ -13,12 +13,12 @@
     "static/media/buffChewbie.png": "/b-n-personality-quiz/static/media/buffChewbie.620ad9595c3ae87f7338.png",
     "static/media/Question4.jpg": "/b-n-personality-quiz/static/media/Question4.e8d4d6e158ac85035eb5.jpg",
     "index.html": "/b-n-personality-quiz/index.html",
-    "main.9148f6eb.css.map": "/b-n-personality-quiz/static/css/main.9148f6eb.css.map",
+    "main.a71c7f78.css.map": "/b-n-personality-quiz/static/css/main.a71c7f78.css.map",
     "main.e872e357.js.map": "/b-n-personality-quiz/static/js/main.e872e357.js.map",
     "453.f34699fb.chunk.js.map": "/b-n-personality-quiz/static/js/453.f34699fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9148f6eb.css",
+    "static/css/main.a71c7f78.css",
     "static/js/main.e872e357.js"
   ]
 }

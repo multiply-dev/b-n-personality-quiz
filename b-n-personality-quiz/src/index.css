@@ -44,7 +44,7 @@ html, body, #root {
   overflow: hidden; /* prevent scrolling */
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1023px) {
   html, body, #root {
     height: 850px;
   }

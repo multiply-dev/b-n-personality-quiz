@@ -18,7 +18,7 @@ const ChewCrew = ({ onSignupComplete }) => {
     e.preventDefault();
     const url = MailchimpURL;
     const formName = "BN Personality Quiz Form"
-    jsonp(`${url}&FNAME=${fname}&LNAME=${lname}&EMAIL=${email}&FLAVOR=${flavor}&FORM=${formName}&ACCEPTS_MARKETING=true`, { param: 'c' }, (err, data) => {
+    jsonp(`${url}&FNAME=${fname}&LNAME=${lname}&EMAIL=${email}&FLAVOR=${flavor}&MERGE13=${formName}&FORM=${formName}&ACCEPTS_MARKETING=true`, { param: 'c' }, (err, data) => {
       if (err) {
         // Handle error
         setIsSubmitting(false);

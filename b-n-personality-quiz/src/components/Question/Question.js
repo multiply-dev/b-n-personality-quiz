@@ -23,6 +23,7 @@ const Question = ({ question, onAnswer }) => {
 
   return (
     <div className='question-container'>
+      <h1 className='header-quiz-text'>TAKE THE QUIZ FOR A CHANCE TO WIN</h1>
       <div>
       <h1 className='progress-text'>Question {question.id}:</h1>
       <h1 className='question-text'>{question.question}</h1>

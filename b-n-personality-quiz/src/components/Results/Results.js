@@ -61,7 +61,7 @@ const Results = ({ answers }) => {
       if (navigator.canShare && navigator.canShare({ files: [file] })) {
         await navigator.share({
           title: `I'm a ${chewbieType}!`,
-          text: 'Check out my HI-CHEW Chewbie!',
+          text: 'See my result from Which Chewbie Are You?',
           files: [file]
         });
       } else {

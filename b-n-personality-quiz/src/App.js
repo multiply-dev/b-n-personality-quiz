@@ -33,7 +33,7 @@ const questions = [
     image: Question4
   },
   { id: 5, 
-    question: "What's the best OG Flavor?", 
+    question: "What's the best Original Mix Flavor?", 
     choices: ['Strawberry', 'Grape', 'Mango', 'Green Apple'] ,
     image: Question5
   }

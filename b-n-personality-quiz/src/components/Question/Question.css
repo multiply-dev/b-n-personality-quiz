@@ -35,6 +35,12 @@ button.selected {
   text-transform: uppercase;
 }
 
+.header-quiz-text {
+  color: #FFD101;
+  font-size: large;
+  text-transform: uppercase;
+}
+
 .question-container {
   align-items: center;
   box-sizing: border-box;
